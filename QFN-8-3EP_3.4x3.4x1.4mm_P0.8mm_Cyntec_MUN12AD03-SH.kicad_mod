@@ -31,6 +31,8 @@
   (fp_line (start -1 1.4) (end 1 1.4) (layer F.Fab) (width 0.05))
   (fp_line (start 1 1.4) (end 1 -1.4) (layer F.Fab) (width 0.05))
   (fp_line (start 1 -1.4) (end -1 -1.4) (layer F.Fab) (width 0.05))
+  (fp_line (start 1.7 -1.8) (end -1.9 -1.8) (layer F.SilkS) (width 0.1))
+  (fp_line (start -1.7 1.8) (end 1.7 1.8) (layer F.SilkS) (width 0.1))
   (pad 1 smd rect (at -1.6 -1.2) (size 0.7 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.6 -0.4) (size 0.7 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.6 0.4) (size 0.7 0.4) (layers F.Cu F.Paste F.Mask))
